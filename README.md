@@ -1,3 +1,3 @@
 # face-recognition
-[Check the docs!](https://github.com/MateoGiraz/face-recognition/files/13794875/docs.pdf)
+[Check the docs!](https://github.com/MateoGiraz/face-recognition/blob/main/docs.pdf)
 
